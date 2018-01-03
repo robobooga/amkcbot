@@ -30,7 +30,7 @@ function calculateProgress() {
     var end = Date.parse("Aug 31 2020");
     var currentProgress = today - start;
     var total = end - start;
-    var percentage = Math.round((currentProgress/total * 100)) / 100
+    var percentage = Math.round((currentProgress/total * 100) * 100) / 100
     finalString = percentage + "%";
 }
 
