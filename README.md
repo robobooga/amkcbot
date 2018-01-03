@@ -19,5 +19,5 @@ The motivation behind this bot is to aid in the easy retrieval of useful informa
 * !toilettiles/!kitchentiles/!serviceyardtiles
 * !rules
 * !pinterest
-* !fb/!facebook"
+* !fb/!facebook
 
